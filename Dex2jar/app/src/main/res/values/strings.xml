@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dex2jar</string>
+
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+    <string name="processing">Processing\nJar file will be saved in the same directory.</string>
+    <string name="dex_path">Dex File Path</string>
+    <string name="not_found">File Not Found.</string>
+    <string name="error">Error</string>
+</resources>
